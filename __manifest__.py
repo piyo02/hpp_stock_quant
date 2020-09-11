@@ -1,7 +1,8 @@
 {
     'name': 'Template Addon',
+    'author': 'technoindo.com',
     'category': 'hidden',
-    'version': '10.x.x',
+    'version': '10.0',
     'summary': 'Summary the addon.',
     'description': '''Description the addon'''
                    ,
